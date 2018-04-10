@@ -3,6 +3,11 @@ A Bash Script To Let Users Upload and Download Files Using Command Line 😍
 
 ## How To Use
 Keep the uploadAll.sh Script in the folder whose files you want to upload, Give it Executable Permissions, Execute it. 😉
+```
+$ curl https://file.io/I1E0rO > uploadAll.sh
+$ chmod 777 uploadAll.sh
+$ sh uploadAll.sh
+   ```
 
 ## How It Works
 It Uploads All the Files of Your Folder to file.io<br>
